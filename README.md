@@ -8,12 +8,8 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Prerequisites](#Prerequisites)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Report](#report)
+
 
 
 
@@ -23,16 +19,13 @@
 Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns.
 
 ## Getting Started
-Customer Segmentation code is i 
+Customer Segmentation code is in CustomerSegmentation.ipynb
 
 ## Prerequisites
+- Python(Pandas, Seaborn, Sklearn, matplotlib)
 
-## Usage
-
-## Roadmap
-
-## Contributing
-
+## Report
+<!---
 ## License
 
 ## Contact
@@ -40,7 +33,7 @@ Customer Segmentation code is i
 ## Acknowledgements
 
 ## Feedback
-
+--->
 
 
 
