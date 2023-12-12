@@ -6,7 +6,6 @@
 
 ## Table of Contents
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Prerequisites](#Prerequisites)
 * [Usage](#usage)
@@ -23,9 +22,8 @@
 
 Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns.
 
-## Built With
-
 ## Getting Started
+Customer Segmentation code is i 
 
 ## Prerequisites
 
