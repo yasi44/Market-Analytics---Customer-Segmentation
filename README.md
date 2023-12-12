@@ -39,7 +39,7 @@ Customer Segmentation code is in CustomerSegmentation.ipynb
 - Our ideal cluster will be red color one. Because they have high spending score and high annual income. 
 Average age for red group is 32 years. 60% of this group are women. 
 - Another ideal cluster will be green cluster. Even though they have low income, but they have high spending score. 
-Since the average age for this group is 25, our guess is they spend more on game and tech accessories or makeup and young-related items, if their age is not high(purchase history must be analysed).
+Since the average age for this group is 25, our guess is they spend more on game and tech accessories or makeup and young-related items(purchase history must be analysed).
 - we should look for ways to attract customers from these two groups and find their popular items.
 - Campaign should be arranged around these two groups. By using customer id and digging more into their purchase history, 
 we can find out what is the most desired products for them and design the campaign in a way that success rate be increased.
