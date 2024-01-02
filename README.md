@@ -71,11 +71,11 @@ We can find out what is the most desired products for them and design the campai
 
 
 ## Acknowledgements
-    - [Numpy](#https://numpy.org/)
-    - [Pandas](#https://pandas.pydata.org/)
-    - [Matplotlib](#https://matplotlib.org/)
-    - [Seaborn](#https://seaborn.pydata.org/)
-    - [Jupyter Notebook](#jupyter.org)
+- [Numpy](#https://numpy.org/)
+- [Pandas](#https://pandas.pydata.org/)
+- [Matplotlib](#https://matplotlib.org/)
+- [Seaborn](#https://seaborn.pydata.org/)
+- [Jupyter Notebook](#jupyter.org)
 
 
 
