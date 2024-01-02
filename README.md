@@ -6,23 +6,43 @@
 
 ## Table of Contents
 * [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
 * [Prerequisites](#Prerequisites)
+* [Getting Started](#getting-started)
 * [Report](#report)
-
+* [Future Work](#Future-Work)
+* [Acknowledgements](#acknowledgements)
 
 
 
 
 ## About the Project
+### Objective: Customer Segmentation (Market Analytics)
+Here we are going to find different shoping groups based on demographics information(age,income) and shoping scores to find the target group for marketing campaigns.
+#### Dataset
+    - CustomerID	
+    - Gender	
+    - Age	
+    - Annual Income (k$)	
+    - Spending Score (1-100)
 
-Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns.
-
-## Getting Started
-Customer Segmentation code is in CustomerSegmentation.ipynb
 
 ## Prerequisites
 - Python(Pandas, Seaborn, Sklearn, matplotlib)
+
+## Getting Started
+To run this project you need to follow the following steps.
+
+#### Prerequisites
+These are the prerequisites you need to build this bot as well as run it.
+- cmd:\ pip install numpy
+- cmd:\ pip install pandas
+- cmd:\ pip install matplotlib
+- cmd:\ pip install seaborn
+
+#### Extra SETUP
+Create conda environment and create project in this environment
+After installing requirements in above Modules LIST
+You need python idle such as Jupyter notebook or spyder
 
 ## Report
 - From the exploratory data analysis we can conclude that the following groups spend the most:
@@ -44,29 +64,18 @@ Since the average age of this group is 25, our guess is they spend more on game 
 - The campaign should be arranged around these two groups. By using customer id and digging more into their purchase history, 
 We can find out what is the most desired products for them and design the campaign in a way that success rate be increased.
 
+## Future Work
+  By looking at the actual purchasing data, the following further analysis can be done:
+  * After clustering the customers and finding hight potential buyers, we can extract the actual purchasing data and apply Product Recommendation to cutomers in the same cluster.
+  * Predictive market basket analysis: to identify sets of item purchases (or events) that generally occur in sequence — something of interest to direct marketers, criminologists and many others.
 
-
-<!---
-## License
-
-## Contact
 
 ## Acknowledgements
-
-## Feedback
---->
-
-
-
-
-
-
-
-
-
-
-
-
+- [Numpy](#https://numpy.org/)
+- [Pandas](#https://pandas.pydata.org/)
+- [Matplotlib](#https://matplotlib.org/)
+- [Seaborn](#https://seaborn.pydata.org/)
+- [Jupyter Notebook](#jupyter.org)
 
 
 
